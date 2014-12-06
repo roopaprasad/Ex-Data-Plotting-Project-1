@@ -56,16 +56,16 @@ The four plots that you will have to construct are shown below.
 
 Plot 1
 
-Plot1.png
+ExDataCP1Plot1.png
 
 Plot 2
 
-Plot2.png
+ExDataCP1Plot2.png
 
 Plot 3
 
-Plot3.png
+ExDataCP1Plot3.png
 
 Plot 4
 
-Plot4.png
+ExDataCP1Plot4.png
